@@ -393,6 +393,8 @@ function VeryExpensiveUpdate(){
 
 ![complete_event_loop](.././images/complete_event_loop.svg)
 
+
+
 一开始先将要执行的代码片段放入宏任务队列。
 
 每次事件循环：
