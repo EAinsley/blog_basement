@@ -10,3 +10,4 @@
 
 [简单解释 Javascript 事件循环(Event Loop)](articles/Javascript_event_loop.md) - 2021.08.02
 [《泛神论要义》阅读报告](articles/reading_Pantheisticon.md) - 2021.08.07
+[《娱乐至死》第一篇阅读报告](articles/reading_Amusing_ourselves_to_death.md) - 2021.08.16
